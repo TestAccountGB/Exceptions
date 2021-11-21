@@ -1,0 +1,5 @@
+package tiposDeExceptions.Throwable.Exception;
+
+Exceções são tipo um "Erro" com tratamento e solução.
+
+Obs.: Exceções não são erro, porque erro não tem tratamento.

@@ -1,0 +1,4 @@
+package tiposDeExceptions.Throwable;
+
+Todas as exceções são do tipo Throwable ("Jogável", Em português), quando a gente recebe uma exceção ou um erro, ela é
+"Jogada" ou seja, ela é excutada e monstra uma mensagem de erro ou de exceção.

@@ -1,0 +1,7 @@
+package tiposDeExceptions;
+
+O que são exceções? Exceções meu amigo, são como "Erros", que quebram o fluxo do código e leva pra um caminho
+inesperado ou que não é pra acontecer. E com exceções conseguimos trata-las para não quebrarem completamento o código,
+mas existem tipos de "Exeções" que não da pra tratar, como a sub-classe de Throwable "Error", que não é considerada uma
+exceção, porque não da para trata-la e normalmente não é um erro do progamador, é um erro de fora do código, que quebra
+totalmente o código, mas também pode ser um erro do progamador.

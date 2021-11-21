@@ -1,0 +1,14 @@
+package tiposDeExceptions.Throwable.Exception.RuntimeException;
+
+Runtime Exception, são exceções em tempo de execução, ou seja, enquanto o código está rodando, que em sua maioria são
+erros do próprio progamador, seja por lógica, ou apenas por digitar algo errado.
+
+Existem também 2 grupos Que as exeções podem ser separadas: 
+
+1- Verificadas (Checked) que você nem pode executar o código antes de trata-la, como por exemplo: Ter um Código que faz
+conexão com o banco de dados, mas se algum dia a gente não conseguir fazer a conexão? Por isso que a gente tem as 
+exceções, como aprasentar uma mensagem de erro quando não conseguir fazer a conexão. 
+
+2- Não Verificadas (Unchecked) São aquelas exeções que da para exucutar mesmo sem trata-las, como por exemplo 
+um progama que divide 2 números que o usúario escolher e se o usúario escolher 0? Vai explodir o mundo, por isso usamos
+exeções.

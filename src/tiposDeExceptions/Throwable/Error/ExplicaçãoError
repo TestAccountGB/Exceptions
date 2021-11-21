@@ -1,0 +1,5 @@
+package tiposDeExceptions.Throwable.Error;
+
+Como já disse error é algo que quebra totalmente o código e que não tem tratamento, você tem que mudar algo no código, ou
+fora dele, como um erro no banco de dados ou algo assim. E para arrumar você tem que mudar a base do código na própria IDE
+ou fora dela.
